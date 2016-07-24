@@ -134,7 +134,6 @@ class GameScene: SKScene {
         self.addChild(label_mouvement)
         
         
-        
     }
     required init?(coder aDecoder: NSCoder) {
         fatalError()
