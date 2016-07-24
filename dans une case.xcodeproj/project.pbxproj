@@ -23,6 +23,8 @@
 		88E9D0B91D45147800878AAF /* tap.caf in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0B81D45147800878AAF /* tap.caf */; };
 		88E9D0BB1D4514DB00878AAF /* monster_sad.caf in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0BA1D4514DB00878AAF /* monster_sad.caf */; };
 		88E9D0BD1D45151D00878AAF /* win.caf in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0BC1D45151D00878AAF /* win.caf */; };
+		88E9D0C01D45199600878AAF /* IMG_0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0BE1D45199600878AAF /* IMG_0041.jpg */; };
+		88E9D0C11D45199600878AAF /* IMG_0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88E9D0BF1D45199600878AAF /* IMG_0042.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +46,8 @@
 		88E9D0B81D45147800878AAF /* tap.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = tap.caf; sourceTree = "<group>"; };
 		88E9D0BA1D4514DB00878AAF /* monster_sad.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = monster_sad.caf; sourceTree = "<group>"; };
 		88E9D0BC1D45151D00878AAF /* win.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = win.caf; sourceTree = "<group>"; };
+		88E9D0BE1D45199600878AAF /* IMG_0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0041.jpg; sourceTree = "<group>"; };
+		88E9D0BF1D45199600878AAF /* IMG_0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0042.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 			children = (
 				882835D21CF0CFBF0098A515 /* dans une case */,
 				882835D11CF0CFBF0098A515 /* Products */,
+				88E9D0BE1D45199600878AAF /* IMG_0041.jpg */,
+				88E9D0BF1D45199600878AAF /* IMG_0042.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -159,7 +165,9 @@
 				88E9D0B91D45147800878AAF /* tap.caf in Resources */,
 				882D87E71CF1DC11006E3F5E /* police.ttf in Resources */,
 				88E9D0BD1D45151D00878AAF /* win.caf in Resources */,
+				88E9D0C11D45199600878AAF /* IMG_0042.jpg in Resources */,
 				882835E21CF0CFBF0098A515 /* LaunchScreen.storyboard in Resources */,
+				88E9D0C01D45199600878AAF /* IMG_0041.jpg in Resources */,
 				882D87E11CF195C4006E3F5E /* gravity_on.caf in Resources */,
 				88E9D0BB1D4514DB00878AAF /* monster_sad.caf in Resources */,
 				882835DF1CF0CFBF0098A515 /* Assets.xcassets in Resources */,
